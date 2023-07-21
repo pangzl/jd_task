@@ -1,0 +1,33 @@
+{
+  "name": "pangzl",
+  "version": "1.0.0",
+  "description": "{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}",
+  "main": "jd_task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pangzl/jd_task.git"
+  },
+  "keywords": [
+    "京东签到、农场、种豆得豆"
+  ],
+  "author": "pangzl",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "dotenv": "^16.3.1",
+    "download": "^6.2.5",
+    "ds": "^1.4.2",
+    "got": "^11.5.1",
+    "http-server": "^0.12.3",
+    "jsdom": "^17.0.0",
+    "png-js": "^1.0.0",
+    "qrcode-terminal": "^0.12.0",
+    "request": "^2.88.2",
+    "tough-cookie": "^4.0.0",
+    "tunnel": "0.0.6",
+    "ws": "^7.4.3"
+  }
+}
